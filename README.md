@@ -76,7 +76,14 @@ study internalization, globalization, localization
 ##언어 패키징 (TODO)
 
 
-## 개발 관련
+## 국제화 라이브러리
 1) i18next
  - https://www.i18next.com/for-enterprises.html
 
+## 국제화 참고 사이트
+1) 자바스크립트 국제화 정리 사이트
+ - http://rxaviers.github.io/javascript-globalization/
+2) 오라클 국제 언어 환경 설명서
+ - https://docs.oracle.com/cd/E26925_01/html/E27145/toc.html
+3) Apple 국제화 가이드
+ - https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPInternational/Introduction/Introduction.html
